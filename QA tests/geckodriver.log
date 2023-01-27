@@ -1,0 +1,11 @@
+1668438125654	geckodriver	INFO	Listening on 127.0.0.1:55065
+1668438126058	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55066" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/34/kqrn_qkx15zghfhy18rc50lr0000gn/T/rust_mozprofilek6dWYq"
+1668438130111	Marionette	INFO	Marionette enabled
+1668438130283	Marionette	INFO	Listening on port 55074
+Read port: 55074
+WebDriver BiDi listening on ws://127.0.0.1:55066
+1668438130481	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/34/kqrn_qkx15zghfhy18rc50lr0000gn/T/rust_mozprofilek6dWYq/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55066/devtools/browser/3071a206-4650-4c4b-a553-4e822f1f0da3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1668438137991	Marionette	INFO	Stopped listening on port 55074
